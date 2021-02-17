@@ -1,42 +1,25 @@
 {
   "streams": [
     {
-      "title": "2nd",
-      "description": "2nd description",
+      "title": "My Stream",
+      "description": "This is a great stream.",
       "id": 1
     },
     {
-      "title": "title",
-      "description": "description",
+      "title": "Other Stream",
+      "description": "Here's some stream",
       "id": 2
     },
     {
-      "formValues": {
-        "title": "3rd title",
-        "description": "3rd description"
-      },
-      "userId": "100368715750983583509",
+      "title": "I Created This Stream",
+      "description": "This change was made by a PATCH request",
+      "userId": "111113427830310115815",
       "id": 3
     },
     {
-      "formValues": {
-        "title": "4th title",
-        "description": "4th desc"
-      },
-      "userId": "100368715750983583509",
+      "title": "Me Streaming Component Reuse!",
+      "description": "This stream is about refactoring!!!",
       "id": 4
-    },
-    {
-      "title": "5th title",
-      "description": "5th desc",
-      "userId": "100368715750983583509",
-      "id": 5
-    },
-    {
-      "title": "6th title",
-      "description": "6th desc",
-      "userId": "100368715750983583509",
-      "id": 6
     }
   ]
 }
