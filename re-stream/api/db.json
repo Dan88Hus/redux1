@@ -1,0 +1,48 @@
+{
+  "streams": [
+    {
+      "title": "test2",
+      "description": "test2 desc",
+      "id": 1
+    },
+    {
+      "title": "congrats!",
+      "description": "desc congrats!",
+      "id": 2
+    },
+    {
+      "title": "title3",
+      "description": "desc3",
+      "id": 3
+    },
+    {
+      "title": "I created this stream",
+      "description": "this was made by me!",
+      "userId": null,
+      "id": 4
+    },
+    {
+      "title": "I created this stream",
+      "description": "this was made by me!",
+      "userId": "100368715750983583509",
+      "id": 5
+    },
+    {
+      "title": "this is test for history.push",
+      "description": "history.push",
+      "userId": "100368715750983583509",
+      "id": 6
+    },
+    {
+      "title": "after props used for StreamForm",
+      "description": "StreamForm re useable code, for streamCreate",
+      "id": 7
+    },
+    {
+      "title": "this is final test",
+      "description": "this is testing for patch, its ok",
+      "userId": "100368715750983583509",
+      "id": 8
+    }
+  ]
+}
